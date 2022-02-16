@@ -95,7 +95,7 @@ Promise.prototype.catch = function(fn) {
 ```
 
 
-# 重学async与await  
+# 回顾（重学）async与await  
 ## async与await用法  
 之前一直认为async是promise的语法糖，但实际上并不是，写得少导致记忆偏差，现在重新学习  
 ```
